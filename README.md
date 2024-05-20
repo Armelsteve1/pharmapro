@@ -2,10 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ## Prérequis
 
 Make sure you have the following items installed :
@@ -15,11 +11,13 @@ Make sure you have the following items installed :
 
 ## Installation
 
-   ```bash
+```bash
    git clone https://github.com/Armelsteve1/pharmapro.git
-
-### `cd pharmapro`
-### `npm start`
+```
+## Start
+   `cd pharmapro`
+   `npm install`
+    `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
